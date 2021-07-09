@@ -2,7 +2,7 @@
 
 This is a simple project for
 showing how to use git and github togeteher. Adding a line for rebasing example,
-more changes from myfeature branch.
+more changes from myfeature branch. Updating emergency fix after stash.
 
 ## Introductuon
 
