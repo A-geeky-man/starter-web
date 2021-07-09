@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This is a simple project for
-showing how to use git and github togeteher.
+showing how to use git and github togeteher. Adding a line for rebasing example.
 
 ## Introductuon
 
